@@ -1,376 +1,376 @@
 - name: __
   strings:
     - ":__:"
-  location: "assets/SuSu/__.png"
+  location: "assets/susu/__.png"
 - name: 4Head 
   strings:
     - ":4Head:"
-  location: "assets/SuSu/4Head.png"
+  location: "assets/susu/4Head.png"
 - name: 5Head
   strings:
     - ":5Head:"
-  location: "assets/SuSu/5Head.png"
+  location: "assets/susu/5Head.png"
 - name: AMAZIN
   strings:
     - ":AMAZIN:"
-  location: "assets/SuSu/AMAZIN.png"
+  location: "assets/susu/AMAZIN.png"
 - name: amogus_totem
   strings:
     - ":amogus_totem:"
-  location: "assets/SuSu/amogus_totem.png"
+  location: "assets/susu/amogus_totem.png"
 - name: Anim_3x1
   strings:
     - ":Anim_3x1:"
-  location: "assets/SuSu/Anim_3x1.png"
+  location: "assets/susu/Anim_3x1.png"
 - name: Anim_boooooo
   strings:
     - ":Anim_boooooo:"
-  location: "assets/SuSu/Anim_boooooo.png"
+  location: "assets/susu/Anim_boooooo.png"
 - name: Anim_hasbullacar
   strings:
     - ":Anim_hasbullacar:"
-  location: "assets/SuSu/Anim_hasbullacar.png"
+  location: "assets/susu/Anim_hasbullacar.png"
 - name: Anim_hitory_gotoh
   strings:
     - ":Anim_hitory_gotoh:"
-  location: "assets/SuSu/Anim_hitory_gotoh.png"
+  location: "assets/susu/Anim_hitory_gotoh.png"
 - name: Anim_PepeItsMe
   strings:
     - ":Anim_PepeItsMe:"
-  location: "assets/SuSu/Anim_PepeItsMe.png"
+  location: "assets/susu/Anim_PepeItsMe.png"
 - name: Anim_popit
   strings:
     - ":Anim_popit:"
-  location: "assets/SuSu/Anim_popit.png"
+  location: "assets/susu/Anim_popit.png"
 - name: Anim_ppClassic
   strings:
     - ":Anim_ppClassic:"
-  location: "assets/SuSu/Anim_ppClassic.png"
+  location: "assets/susu/Anim_ppClassic.png"
 - name: BALLS
   strings:
     - ":BALLS:"
-  location: "assets/SuSu/BALLS.png"
+  location: "assets/susu/BALLS.png"
 - name: BALLS2
   strings:
     - ":BALLS2:"
-  location: "assets/SuSu/BALLS2.png"
+  location: "assets/susu/BALLS2.png"
 - name: bancat
   strings:
     - ":bancat:"
-  location: "assets/SuSu/bancat.png"
+  location: "assets/susu/bancat.png"
 - name: Blunt
   strings:
     - ":Blunt:"
-  location: "assets/SuSu/Blunt.png"
+  location: "assets/susu/Blunt.png"
 - name: BOOBSpride
   strings:
     - ":BOOBSpride:"
-  location: "assets/SuSu/BOOBSpride.png"
+  location: "assets/susu/BOOBSpride.png"
 - name: BUTTS
   strings:
     - ":BUTTS:"
-  location: "assets/SuSu/BUTTS.png"
+  location: "assets/susu/BUTTS.png"
 - name: CatPat
   strings:
     - ":CatPat:"
-  location: "assets/SuSu/CatPat.png"
+  location: "assets/susu/CatPat.png"
 - name: CatThumbs
   strings:
     - ":CatThumbs:"
-  location: "assets/SuSu/CatThumbs.png"
+  location: "assets/susu/CatThumbs.png"
 - name: despair
   strings:
     - ":despair:"
-  location: "assets/SuSu/despair.png"
+  location: "assets/susu/despair.png"
 - name: diamond
   strings:
     - ":diamond:"
-  location: "assets/SuSu/diamond.png"
+  location: "assets/susu/diamond.png"
 - name: diamond_block
   strings:
     - ":diamond_block:"
-  location: "assets/SuSu/diamond_block.png"
+  location: "assets/susu/diamond_block.png"
 - name: DICKS
   strings:
     - ":DICKS:"
-  location: "assets/SuSu/DICKS.png"
+  location: "assets/susu/DICKS.png"
 - name: doomerrat
   strings:
     - ":doomerrat:"
-  location: "assets/SuSu/doomerrat.png"
+  location: "assets/susu/doomerrat.png"
 - name: gigachad
   strings:
     - ":gigachad:"
-  location: "assets/SuSu/gigachad.png"
+  location: "assets/susu/gigachad.png"
 - name: gori_padla
   strings:
     - ":gori_padla:"
-  location: "assets/SuSu/gori_padla.png"
+  location: "assets/susu/gori_padla.png"
 - name: HandsUp
   strings:
     - ":HandsUp:"
-  location: "assets/SuSu/HandsUp.png"
+  location: "assets/susu/HandsUp.png"
 - name: HasbullaThink
   strings:
     - ":HasbullaThink:"
-  location: "assets/SuSu/HasbullaThink.png"
+  location: "assets/susu/HasbullaThink.png"
 - name: idmix
   strings:
     - ":idmix:"
-  location: "assets/SuSu/idmix.png"
+  location: "assets/susu/idmix.png"
 - name: Jokerge
   strings:
     - ":Jokerge:"
-  location: "assets/SuSu/Jokerge.png"
+  location: "assets/susu/Jokerge.png"
 - name: KEKW
   strings:
     - ":KEKW:"
-  location: "assets/SuSu/KEKW.png"
+  location: "assets/susu/KEKW.png"
 - name: KermitTea
   strings:
     - ":KermitTea:"
-  location: "assets/SuSu/KermitTea.png"
+  location: "assets/susu/KermitTea.png"
 - name: KringeRezz
   strings:
     - ":KringeRezz:"
-  location: "assets/SuSu/KringeRezz.png"
+  location: "assets/susu/KringeRezz.png"
 - name: NOOOO
   strings:
     - ":NOOOO:"
-  location: "assets/SuSu/NOOOO.png"
+  location: "assets/susu/NOOOO.png"
 - name: olegmus
   strings:
     - ":olegmus:"
-  location: "assets/SuSu/olegmus.png"
+  location: "assets/susu/olegmus.png"
 - name: OMEGALUL
   strings:
     - ":OMEGALUL:"
-  location: "assets/SuSu/OMEGALUL.png"
+  location: "assets/susu/OMEGALUL.png"
 - name: Pepe_AreYouWinningSon
   strings:
     - ":Pepe_AreYouWinningSon:"
-  location: "assets/SuSu/Pepe_AreYouWinningSon.png"
+  location: "assets/susu/Pepe_AreYouWinningSon.png"
 - name: Pepe_Bedge
   strings:
     - ":Pepe_Bedge:"
-  location: "assets/SuSu/Pepe_Bedge.png"
+  location: "assets/susu/Pepe_Bedge.png"
 - name: Pepe_Blunt
   strings:
     - ":Pepe_Blunt:"
-  location: "assets/SuSu/Pepe_Blunt.png"
+  location: "assets/susu/Pepe_Blunt.png"
 - name: Pepe_Catge
   strings:
     - ":Pepe_Catge:"
-  location: "assets/SuSu/Pepe_Catge.png"
+  location: "assets/susu/Pepe_Catge.png"
 - name: Pepe_Chill
   strings:
     - ":Pepe_Chill:"
-  location: "assets/SuSu/Pepe_Chill.png"
+  location: "assets/susu/Pepe_Chill.png"
 - name: Pepe_Clown
   strings:
     - ":Pepe_Clown:"
-  location: "assets/SuSu/Pepe_Clown.png"
+  location: "assets/susu/Pepe_Clown.png"
 - name: Pepe_Cringe
   strings:
     - ":Pepe_Cringe:"
-  location: "assets/SuSu/Pepe_Cringe.png"
+  location: "assets/susu/Pepe_Cringe.png"
 - name: Pepe_Ez
   strings:
     - ":Pepe_Ez:"
-  location: "assets/SuSu/Pepe_Ez.png"
+  location: "assets/susu/Pepe_Ez.png"
 - name: Pepe_F
   strings:
     - ":Pepe_F:"
-  location: "assets/SuSu/Pepe_F.png"
+  location: "assets/susu/Pepe_F.png"
 - name: Pepe_FeelsGoodEnoughMan
   strings:
     - ":Pepe_FeelsGoodEnoughMan:"
-  location: "assets/SuSu/Pepe_FeelsGoodEnoughMan.png"
+  location: "assets/susu/Pepe_FeelsGoodEnoughMan.png"
 - name: Pepe_FeelsStrongMen
   strings:
     - ":Pepe_FeelsStrongMen:"
-  location: "assets/SuSu/Pepe_FeelsStrongMen.png"
+  location: "assets/susu/Pepe_FeelsStrongMen.png"
 - name: Pepe_Flower
   strings:
     - ":Pepe_Flower:"
-  location: "assets/SuSu/Pepe_Flower.png"
+  location: "assets/susu/Pepe_Flower.png"
 - name: Pepe_Flushed
   strings:
     - ":Pepe_Flushed:"
-  location: "assets/SuSu/Pepe_Flushed.png"
+  location: "assets/susu/Pepe_Flushed.png"
 - name: Pepe_forsenKek
   strings:
     - ":Pepe_forsenKek:"
-  location: "assets/SuSu/Pepe_forsenKek.png"
+  location: "assets/susu/Pepe_forsenKek.png"
 - name: Pepe_Hmm
   strings:
     - ":Pepe_Hmm:"
-  location: "assets/SuSu/Pepe_Hmm.png"
+  location: "assets/susu/Pepe_Hmm.png"
 - name: Pepe_hmmNice
   strings:
     - ":Pepe_hmmNice:"
-  location: "assets/SuSu/Pepe_hmmNice.png"
+  location: "assets/susu/Pepe_hmmNice.png"
 - name: Pepe_IgorBuisennes
   strings:
     - ":Pepe_IgorBuisennes:"
-  location: "assets/SuSu/Pepe_IgorBuisennes.png"
+  location: "assets/susu/Pepe_IgorBuisennes.png"
 - name: Pepe_KEKW
   strings:
     - ":Pepe_KEKW:"
-  location: "assets/SuSu/Pepe_KEKW.png"
+  location: "assets/susu/Pepe_KEKW.png"
 - name: Pepe_Laugh
   strings:
     - ":Pepe_Laugh:"
-  location: "assets/SuSu/Pepe_Laugh.png"
+  location: "assets/susu/Pepe_Laugh.png"
 - name: Pepe_Laugh~1
   strings:
     - ":Pepe_Laugh~1:"
-  location: "assets/SuSu/Pepe_Laugh~1.png"
+  location: "assets/susu/Pepe_Laugh~1.png"
 - name: Pepe_mad
   strings:
     - ":Pepe_mad:"
-  location: "assets/SuSu/Pepe_mad.png"
+  location: "assets/susu/Pepe_mad.png"
 - name: Pepe_Madge
   strings:
     - ":Pepe_Madge:"
-  location: "assets/SuSu/Pepe_Madge.png"
+  location: "assets/susu/Pepe_Madge.png"
 - name: Pepe_Ok
   strings:
     - ":Pepe_Ok:"
-  location: "assets/SuSu/Pepe_Ok.png"
+  location: "assets/susu/Pepe_Ok.png"
 - name: Pepe_Okayge
   strings:
     - ":Pepe_Okayge:"
-  location: "assets/SuSu/Pepe_Okayge.png"
+  location: "assets/susu/Pepe_Okayge.png"
 - name: Pepe_oWish
   strings:
     - ":Pepe_oWish:"
-  location: "assets/SuSu/Pepe_oWish.png"
+  location: "assets/susu/Pepe_oWish.png"
 - name: Pepe_peepoBlanket
   strings:
     - ":Pepe_peepoBlanket:"
-  location: "assets/SuSu/Pepe_peepoBlanket.png"
+  location: "assets/susu/Pepe_peepoBlanket.png"
 - name: Pepe_peepoChill
   strings:
     - ":Pepe_peepoChill:"
-  location: "assets/SuSu/Pepe_peepoChill.png"
+  location: "assets/susu/Pepe_peepoChill.png"
 - name: Pepe_peepoComfyBlanket
   strings:
     - ":Pepe_peepoComfyBlanket:"
-  location: "assets/SuSu/Pepe_peepoComfyBlanket.png"
+  location: "assets/susu/Pepe_peepoComfyBlanket.png"
 - name: Pepe_peepofat
   strings:
     - ":Pepe_peepofat:"
-  location: "assets/SuSu/Pepe_peepofat.png"
+  location: "assets/susu/Pepe_peepofat.png"
 - name: Pepe_peepoHurt
   strings:
     - ":Pepe_peepoHurt:"
-  location: "assets/SuSu/Pepe_peepoHurt.png"
+  location: "assets/susu/Pepe_peepoHurt.png"
 - name: Pepe_Peeposleep
   strings:
     - ":Pepe_Peeposleep:"
-  location: "assets/SuSu/Pepe_Peeposleep.png"
+  location: "assets/susu/Pepe_Peeposleep.png"
 - name: Pepe_Ping
   strings:
     - ":Pepe_Ping:"
-  location: "assets/SuSu/Pepe_Ping.png"
+  location: "assets/susu/Pepe_Ping.png"
 - name: Pepe_Prayge
   strings:
     - ":Pepe_Prayge:"
-  location: "assets/SuSu/Pepe_Prayge.png"
+  location: "assets/susu/Pepe_Prayge.png"
 - name: Pepe_Ratge
   strings:
     - ":Pepe_Ratge:"
-  location: "assets/SuSu/Pepe_Ratge.png"
+  location: "assets/susu/Pepe_Ratge.png"
 - name: Pepe_Sadge
   strings:
     - ":Pepe_Sadge:"
-  location: "assets/SuSu/Pepe_Sadge.png"
+  location: "assets/susu/Pepe_Sadge.png"
 - name: Pepe_Smadge
   strings:
     - ":Pepe_Smadge:"
-  location: "assets/SuSu/Pepe_Smadge.png"
+  location: "assets/susu/Pepe_Smadge.png"
 - name: Pepe_Smartge
   strings:
     - ":Pepe_Smartge:"
-  location: "assets/SuSu/Pepe_Smartge.png"
+  location: "assets/susu/Pepe_Smartge.png"
 - name: Pepe_sss
   strings:
     - ":Pepe_sss:"
-  location: "assets/SuSu/Pepe_sss.png"
+  location: "assets/susu/Pepe_sss.png"
 - name: Pepe_Stronge
   strings:
     - ":Pepe_Stronge:"
-  location: "assets/SuSu/Pepe_Stronge.png"
+  location: "assets/susu/Pepe_Stronge.png"
 - name: Pepe_Vokege
   strings:
     - ":Pepe_Vokege:"
-  location: "assets/SuSu/Pepe_Vokege.png"
+  location: "assets/susu/Pepe_Vokege.png"
 - name: Pepe_wideHappy
   strings:
     - ":Pepe_wideHappy:"
-  location: "assets/SuSu/Pepe_wideHappy.png"
+  location: "assets/susu/Pepe_wideHappy.png"
 - name: Pepe_yesvote
   strings:
     - ":Pepe_yesvote:"
-  location: "assets/SuSu/Pepe_yesvote.png"
+  location: "assets/susu/Pepe_yesvote.png"
 - name: Pog
   strings:
     - ":Pog:"
-  location: "assets/SuSu/Pog.png"
+  location: "assets/susu/Pog.png"
 - name: S_CHEL
   strings:
     - ":S_CHEL:"
-  location: "assets/SuSu/S_CHEL.png"
+  location: "assets/susu/S_CHEL.png"
 - name: S_GA
   strings:
     - ":S_GA:"
-  location: "assets/SuSu/S_GA.png"
+  location: "assets/susu/S_GA.png"
 - name: S_Me
   strings:
     - ":S_Me:"
-  location: "assets/SuSu/S_Me.png"
+  location: "assets/susu/S_Me.png"
 - name: S_NE
   strings:
     - ":S_NE:"
-  location: "assets/SuSu/S_NE.png"
+  location: "assets/susu/S_NE.png"
 - name: S_OX
   strings:
     - ":S_OX:"
-  location: "assets/SuSu/S_OX.png"
+  location: "assets/susu/S_OX.png"
 - name: S_PL
   strings:
     - ":S_PL:"
-  location: "assets/SuSu/S_PL.png"
+  location: "assets/susu/S_PL.png"
 - name: S_ROSH
   strings:
     - ":S_ROSH:"
-  location: "assets/SuSu/S_ROSH.png"
+  location: "assets/susu/S_ROSH.png"
 - name: S_XA
   strings:
     - ":S_XA:"
-  location: "assets/SuSu/S_XA.png"
+  location: "assets/susu/S_XA.png"
 - name: spasibo_chto_jivoy
   strings:
     - ":spasibo_chto_jivoy:"
-  location: "assets/SuSu/spasibo_chto_jivoy.png"
+  location: "assets/susu/spasibo_chto_jivoy.png"
 - name: weneedtocook
   strings:
     - ":weneedtocook:"
-  location: "assets/SuSu/weneedtocook.png"
+  location: "assets/susu/weneedtocook.png"
 - name: WooferWhat
   strings:
     - ":WooferWhat:"
-  location: "assets/SuSu/WooferWhat.png"
+  location: "assets/susu/WooferWhat.png"
 - name: ya_vse_skazal
   strings:
     - ":ya_vse_skazal:"
-  location: "assets/SuSu/ya_vse_skazal.png"
+  location: "assets/susu/ya_vse_skazal.png"
 - name: YuuBooty
   strings:
     - ":YuuBooty:"
-  location: "assets/SuSu/YuuBooty.png"
+  location: "assets/susu/YuuBooty.png"
 - name: zaebala_eta_ebatoria
   strings:
     - ":zaebala_eta_ebatoria:"
-  location: "assets/SuSu/zaebala_eta_ebatoria.png"
+  location: "assets/susu/zaebala_eta_ebatoria.png"
