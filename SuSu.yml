@@ -46,23 +46,23 @@
   strings:
     - ":Anim_ppClassic:"
   location: "assets/susu/Anim_ppClassic.gif"
-  - name: Anim_blobban
+- name: Anim_blobban
   strings:
     - ":Anim_blobban:"
   location: "assets/susu/Anim_blobban.gif"
-  - name: Anim_blobstabby
+- name: Anim_blobstabby
   strings:
     - ":Anim_blobstabby:"
   location: "assets/susu/Anim_blobstabby.gif"
-  - name: Anim_bongocat
+- name: Anim_bongocat
   strings:
     - ":Anim_bongocat:"
   location: "assets/susu/Anim_bongocat.gif"
-  - name: Anim_catjam
+- name: Anim_catjam
   strings:
     - ":Anim_catjam:"
   location: "assets/susu/Anim_catjam.gif"
-  - name: Anim_Peped
+- name: Anim_Peped
   strings:
     - ":Anim_Peped:"
   location: "assets/susu/Anim_Peped.gif"
@@ -82,11 +82,11 @@
   strings:
     - ":Blunt:"
   location: "assets/susu/Blunt.png"
-  - name: blyat
+- name: blyat
   strings:
     - ":blyat:"
   location: "assets/susu/blyat.png"
-  - name: jivoy
+- name: jivoy
   strings:
     - ":jivoy:"
   location: "assets/susu/jivoy.png"
