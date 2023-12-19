@@ -82,6 +82,14 @@
   strings:
     - ":Blunt:"
   location: "assets/susu/Blunt.png"
+  - name: blyat
+  strings:
+    - ":blyat:"
+  location: "assets/susu/blyat.png"
+  - name: jivoy
+  strings:
+    - ":jivoy:"
+  location: "assets/susu/jivoy.png"
 - name: BOOBSpride
   strings:
     - ":BOOBSpride:"
