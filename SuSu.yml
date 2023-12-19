@@ -21,31 +21,31 @@
 - name: Anim_3x1
   strings:
     - ":Anim_3x1:"
-  location: "assets/susu/Anim_3x1.png"
+  location: "assets/susu/Anim_3x1.gif"
 - name: Anim_boooooo
   strings:
     - ":Anim_boooooo:"
-  location: "assets/susu/Anim_boooooo.png"
+  location: "assets/susu/Anim_boooooo.gif"
 - name: Anim_hasbullacar
   strings:
     - ":Anim_hasbullacar:"
-  location: "assets/susu/Anim_hasbullacar.png"
+  location: "assets/susu/Anim_hasbullacar.gif"
 - name: Anim_hitory_gotoh
   strings:
     - ":Anim_hitory_gotoh:"
-  location: "assets/susu/Anim_hitory_gotoh.png"
+  location: "assets/susu/Anim_hitory_gotoh.gif"
 - name: Anim_PepeItsMe
   strings:
     - ":Anim_PepeItsMe:"
-  location: "assets/susu/Anim_PepeItsMe.png"
+  location: "assets/susu/Anim_PepeItsMe.gif"
 - name: Anim_popit
   strings:
     - ":Anim_popit:"
-  location: "assets/susu/Anim_popit.png"
+  location: "assets/susu/Anim_popit.gif"
 - name: Anim_ppClassic
   strings:
     - ":Anim_ppClassic:"
-  location: "assets/susu/Anim_ppClassic.png"
+  location: "assets/susu/Anim_ppClassic.gif"
 - name: BALLS
   strings:
     - ":BALLS:"
