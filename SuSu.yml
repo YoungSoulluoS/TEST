@@ -46,6 +46,26 @@
   strings:
     - ":Anim_ppClassic:"
   location: "assets/susu/Anim_ppClassic.gif"
+  - name: Anim_blobban
+  strings:
+    - ":Anim_blobban:"
+  location: "assets/susu/Anim_blobban.gif"
+  - name: Anim_blobstabby
+  strings:
+    - ":Anim_blobstabby:"
+  location: "assets/susu/Anim_blobstabby.gif"
+  - name: Anim_bongocat
+  strings:
+    - ":Anim_bongocat:"
+  location: "assets/susu/Anim_bongocat.gif"
+  - name: Anim_catjam
+  strings:
+    - ":Anim_catjam:"
+  location: "assets/susu/Anim_catjam.gif"
+  - name: Anim_Peped
+  strings:
+    - ":Anim_Peped:"
+  location: "assets/susu/Anim_Peped.gif"
 - name: BALLS
   strings:
     - ":BALLS:"
@@ -62,18 +82,10 @@
   strings:
     - ":Blunt:"
   location: "assets/susu/Blunt.png"
-  - name: Anim_blobban
-  strings:
-    - ":Anim_blobban:"
-  location: "assets/susu/Anim_blobban.png"
 - name: BOOBSpride
   strings:
     - ":BOOBSpride:"
   location: "assets/susu/BOOBSpride.png"
-  - name: Anim_bongocat
-  strings:
-    - ":Anim_bongocat:"
-  location: "assets/susu/Anim_bongocat.png"
 - name: BUTTS
   strings:
     - ":BUTTS:"
@@ -82,10 +94,6 @@
   strings:
     - ":CatPat:"
   location: "assets/susu/CatPat.png"
-  - name: Anim_catjam
-  strings:
-    - ":Anim_catjam:"
-  location: "assets/susu/Anim_catjam.png"
 - name: CatThumbs
   strings:
     - ":CatThumbs:"
@@ -186,10 +194,6 @@
   strings:
     - ":Pepe_Cringe:"
   location: "assets/susu/Pepe_Cringe.png"
-  - name: Anim_Peped
-  strings:
-    - ":Anim_Peped:"
-  location: "assets/susu/Anim_Peped.png"
 - name: Pepe_Ez
   strings:
     - ":Pepe_Ez:"
