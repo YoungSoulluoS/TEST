@@ -62,10 +62,18 @@
   strings:
     - ":Blunt:"
   location: "assets/susu/Blunt.png"
+  - name: Anim_blobban
+  strings:
+    - ":Anim_blobban:"
+  location: "assets/susu/Anim_blobban.png"
 - name: BOOBSpride
   strings:
     - ":BOOBSpride:"
   location: "assets/susu/BOOBSpride.png"
+  - name: Anim_bongocat
+  strings:
+    - ":Anim_bongocat:"
+  location: "assets/susu/Anim_bongocat.png"
 - name: BUTTS
   strings:
     - ":BUTTS:"
@@ -74,6 +82,10 @@
   strings:
     - ":CatPat:"
   location: "assets/susu/CatPat.png"
+  - name: Anim_catjam
+  strings:
+    - ":Anim_catjam:"
+  location: "assets/susu/Anim_catjam.png"
 - name: CatThumbs
   strings:
     - ":CatThumbs:"
@@ -146,10 +158,10 @@
   strings:
     - ":OMEGALUL:"
   location: "assets/susu/OMEGALUL.png"
-- name: Pepe_AreYouWinningSon
+- name: Pepe_Son
   strings:
-    - ":Pepe_AreYouWinningSon:"
-  location: "assets/susu/Pepe_AreYouWinningSon.png"
+    - ":Pepe_Son:"
+  location: "assets/susu/Pepe_Son.png"
 - name: Pepe_Bedge
   strings:
     - ":Pepe_Bedge:"
@@ -174,6 +186,10 @@
   strings:
     - ":Pepe_Cringe:"
   location: "assets/susu/Pepe_Cringe.png"
+  - name: Anim_Peped
+  strings:
+    - ":Anim_Peped:"
+  location: "assets/susu/Anim_Peped.png"
 - name: Pepe_Ez
   strings:
     - ":Pepe_Ez:"
@@ -182,10 +198,10 @@
   strings:
     - ":Pepe_F:"
   location: "assets/susu/Pepe_F.png"
-- name: Pepe_FeelsGoodEnoughMan
+- name: Pepe_FeelsGood
   strings:
-    - ":Pepe_FeelsGoodEnoughMan:"
-  location: "assets/susu/Pepe_FeelsGoodEnoughMan.png"
+    - ":Pepe_FeelsGood:"
+  location: "assets/susu/Pepe_FeelsGood.png"
 - name: Pepe_FeelsStrongMen
   strings:
     - ":Pepe_FeelsStrongMen:"
