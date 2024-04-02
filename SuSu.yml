@@ -402,3 +402,19 @@
   strings:
     - ":zaebala_eta_ebatoria:"
   location: "assets/susu/zaebala_eta_ebatoria.png"
+- name: ooo_potato
+  strings:
+    - ":ooo_potato:"
+  location: "assets/susu/ooo_potato.png"
+- name: no_kekw
+  strings:
+    - ":no_kekw:"
+  location: "assets/susu/no_kekw.png"
+- name: orange_kek
+  strings:
+    - ":orange_kek:"
+  location: "assets/susu/orange_kek.png"
+- name: Maaaan
+  strings:
+    - ":Maaaan:"
+  location: "assets/susu/Maaaan.png"
